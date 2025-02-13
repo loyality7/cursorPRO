@@ -47,7 +47,7 @@
 ## 📥 安装方法
 
 ### 方法一：直接使用
-1. 从 [Releases](https://github.com/your-username/cursor-reset-plus/releases) 页面下载最新版本
+1. 从 [Releases]([https://github.com/your-username/cursor-reset-plus/releases](https://github.com/pattonant/cursorPRO.git)) 页面下载最新版本
 2. 解压下载的文件
 3. 运行可执行文件（Windows 需要右键以管理员身份运行）
 
