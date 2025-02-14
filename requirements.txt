@@ -1,0 +1,13 @@
+ttkthemes>=3.2.2
+psutil>=5.8.0
+requests>=2.25.1
+cx-Freeze>=6.11.1
+icoextract>=0.1.4
+pillow>=9.0.0
+pywin32>=305
+appdirs>=1.4.4
+certifi>=2021.5.30
+charset-normalizer>=2.0.4
+idna>=3.2
+urllib3>=1.26.6
+packaging>=21.0 
